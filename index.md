@@ -1,10 +1,16 @@
 ---
-title: About Alembic
+title: Anmälan är nu öppen!
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## F1 RÖJ 2019
+  28-30 November
+feature_image: "/assets/background_smoke.jpg"
 ---
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+F1 Röj är en projektgrupp under Teknologkåren vid LTH som anordnar Lunds fetaste fest! I höst bjuder vi in studenter från hela Sverige för en (o)förglömlig helg, där ni får tävla i lifesize minröj och festa natten lång!
+
+Så kom till Lund i höst och tävla om ära och berömmelse på våra lifesize Röj-planer!
+
+Kolla även in vår facebook och Instagram för övriga uppdateringar!
+
+{% include button.html text="Facebook" link="https://twitter.com/daviddarnes" icon="facebook" %} {% include button.html text="Instagram" link="https://twitter.com/daviddarnes" icon="instagram" %}
+
