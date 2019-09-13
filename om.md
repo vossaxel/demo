@@ -24,7 +24,7 @@ Spelet är slut när du funnit alla minor (12) genom att flagga dem, eller om du
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
-<script src="{{ base.url | prepend: site.url }}/assets/js/game.js"></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/game.js"></script>
 <div id="game-wrapper">
   <div id="ms"></div>
 </div>

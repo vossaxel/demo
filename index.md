@@ -3,7 +3,7 @@ title: Anmälan är nu öppen!
 feature_text: |
   ## F1 RÖJ 2019
   28-30 November
-feature_image: "/assets/background_smoke.jpg"
+feature_image: "{{ site.baseurl | prepend: site.url }}/assets/background_smoke.jpg"
 ---
 
 F1 Röj är en projektgrupp under Teknologkåren vid LTH som anordnar Lunds fetaste fest! I höst bjuder vi in studenter från hela Sverige för en (o)förglömlig helg, där ni får tävla i lifesize minröj och festa natten lång!
